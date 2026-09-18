@@ -6,5 +6,11 @@ print(add(3,4))
 def sub(a,b):
     return a-b
 
-print(add(3,4))
+print(sub(3,4))
+
+def div(a,b):
+    return a/b
+
+print(div(3,4))
+
 
